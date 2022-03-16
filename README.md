@@ -17,7 +17,7 @@ I personally use [**Canva**](https://www.canva.com/) for creating the banner ima
 There are endless badges that you could use in your projects. And they do depend on the project. Some of the ones that I commonly use in every projects are given below. 
 
 I use [**Shields IO**](https://shields.io/) for making badges. It is a simple and easy to use tool that you can use for almost all your badge cravings. -->
-<img alt="coding" width="1000"  src="banner.jpg" >
+<img alt="coding" width="700"  src="banner.jpg" >
 <!-- Some badges that you could use -->
 
 <!-- ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)

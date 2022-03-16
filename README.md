@@ -42,20 +42,22 @@ I use [**Shields IO**](https://shields.io/) for making badges. It is a simple an
 # Demo-Preview
 
 <!-- Add a demo for your project -->
+This site is published at  [Scroll to Sections](https://edoradoda.github.io/landig_page/).
+
 <img alt="coding" width="900"  src="scroll.gif" >
 <!-- After you have written about your project, it is a good idea to have a demo/preview(**video/gif/screenshots** are good options) of your project so that people can know what to expect in your project. You could also add the demo in the previous section with the product description.
 
 Here is a random GIF as a placeholder.
 
 ![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) -->
-https://edoradoda.github.io/landig_page/
+
 # Table of contents
 
 <!-- After you have introduced your project, it is a good idea to add a **Table of contents** or **TOC** as **cool** people say it. This would make it easier for people to navigate through your README and find exactly what they are looking for.
 
 Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README. -->
 
-- [Project Title](#project-title)
+- [Project Title](#ScrollToSections)
 - [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
@@ -86,7 +88,12 @@ To use this project, first clone the repo on your device using the command below
 
 ```git init```
 
-```git clone https://github.com/navendu-pottekkat/nsfw-filter.git``` -->
+```git clone https://github.com/edoradoda/landig_page.git``` -->
+```git init```
+
+```git clone https://github.com/edoradoda/landig_page.git``` 
+
+``` edit js/app.js , css/styles  and index.html``` 
 
 # Usage
 [(Back to top)](#table-of-contents)

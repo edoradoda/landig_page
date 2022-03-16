@@ -17,7 +17,7 @@ I personally use [**Canva**](https://www.canva.com/) for creating the banner ima
 There are endless badges that you could use in your projects. And they do depend on the project. Some of the ones that I commonly use in every projects are given below. 
 
 I use [**Shields IO**](https://shields.io/) for making badges. It is a simple and easy to use tool that you can use for almost all your badge cravings. -->
-<img alt="coding" width="700"  src="banner.jpg" >
+<img alt="coding" width="900"  src="banner.jpg" >
 <!-- Some badges that you could use -->
 
 <!-- ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
@@ -42,13 +42,13 @@ I use [**Shields IO**](https://shields.io/) for making badges. It is a simple an
 # Demo-Preview
 
 <!-- Add a demo for your project -->
-
+<img alt="coding" width="900"  src="scroll.gif" >
 <!-- After you have written about your project, it is a good idea to have a demo/preview(**video/gif/screenshots** are good options) of your project so that people can know what to expect in your project. You could also add the demo in the previous section with the product description.
 
 Here is a random GIF as a placeholder.
 
 ![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) -->
-
+https://edoradoda.github.io/landig_page/
 # Table of contents
 
 <!-- After you have introduced your project, it is a good idea to add a **Table of contents** or **TOC** as **cool** people say it. This would make it easier for people to navigate through your README and find exactly what they are looking for.

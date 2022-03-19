@@ -77,11 +77,11 @@ section {
     display: inline-block;
 }
 
-.navbar__menu li:hover {
+/* .navbar__menu li:hover {
     background: #333;
     color: #fff;
     transition: ease 0.3s all;
-}
+} */
 
 .navbar__menu .menu__link {
     display: block;
